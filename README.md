@@ -7,3 +7,4 @@ Exercises based on [Tamás Ferenc: A C++ nyelv alapjai](https://tferi.hu/cpluspl
 3. Branching 
 4. Loops (do while, while, for)
 5. Arrays, matrices, pointers
+6. Functions, operators
